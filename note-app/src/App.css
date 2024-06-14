@@ -1,0 +1,23 @@
+*{
+  padding: 0px;
+  margin: 0px;
+  box-sizing: border-box;
+}
+
+.body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+  height: 100vh;
+}
+
+.container{
+justify-content: center;
+margin: 10px;
+padding:10px;
+width: 200px;
+height: 250px;
+color: azure;
+background-color: brown;
+}
